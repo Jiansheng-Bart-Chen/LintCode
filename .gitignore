@@ -16,6 +16,3 @@ org.eclipse.jdt.core.prefs
 /debug.sh
 /target/
 /setupEnvProd
-
-# Excel temporary
-**/~$*.xls*
