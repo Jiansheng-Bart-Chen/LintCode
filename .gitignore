@@ -1,0 +1,21 @@
+.settings/
+.classpath
+.project
+.metadata
+build/
+bin/
+.DS_Store
+*.iml
+.idea/
+org.eclipse.jdt.core.prefs
+/target/
+/log/
+/dependency-reduced-pom.xml
+.checkstyle
+*.log
+/debug.sh
+/target/
+/setupEnvProd
+
+# Excel temporary
+**/~$*.xls*
